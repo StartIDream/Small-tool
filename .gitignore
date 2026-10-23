@@ -221,3 +221,6 @@ __marimo__/
 
 # TRAE IDE
 .trae/
+
+# 运行时配置文件
+clicker_config.json
